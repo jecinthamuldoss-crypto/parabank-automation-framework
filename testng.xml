@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="default suit">
+    <test name="entire Tests">
+        <classes>
+            <class name="Tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
+
+
